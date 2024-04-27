@@ -24,3 +24,18 @@ footer{
 .texto-inglês{
     font-style: italic;
 }
+
+.rodape{
+    padding: 20px 0;
+}
+
+.rodape div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rodape div img{
+    width: 20px;
+    margin: 0 5px;
+}
